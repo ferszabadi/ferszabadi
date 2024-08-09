@@ -22,6 +22,8 @@
 
 ## Cursos e certificados
 
+- Dominando a Linguagem de Programação Java | 11 horas | DIO (2024)
+- Java Essencial e Desenvolvimento Colaborativo com Git |9 horas | DIO (2024)
 - Scrum Foundation Professional Certification SFPC | CertiProf (2024)
 - Git e Versionamento | Ada Tech (2024)
 - Scrum Fundamentals Certified (SFC) | SCRUMstudy (2023)
