@@ -4,8 +4,8 @@
 
 🗨 Profissional de Comunicação e Tecnologia;\
 💻 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Sorocaba;\
-🎓 Formada em Jornalismo e pós-graduada em Marketing Digital;\
-💼 Buscando oportunidade de estágio em TI para transição de carreira.
+💼 Estagiária de Gestão de Projetos de TI na ![DoroTech](https://github.com/dorotech);\
+🎓 Formada em Jornalismo e pós-graduada em Marketing Digital.\
 
 ## Meus conhecimentos
 
