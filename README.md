@@ -3,9 +3,8 @@
 ## Sobre mim
 
 🗨 Profissional de Comunicação e Tecnologia;\
-💻 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Sorocaba;\
-💼 Estagiária de Gestão de Projetos de TI na [DoroTech](https://github.com/dorotech);\
-🎓 Formada em Jornalismo e pós-graduada em Marketing Digital.
+💻 Analista de Projetos de TI na [DoroTech](https://github.com/dorotech);\
+🎓 Análise e Desenvolvimento de Sistemas (Fatec Sorocaba, 2025), Marketing Digital (Belas Artes, 2020) e Jornalismo (ESAMC, 2016).
 
 ## Meus conhecimentos
 
