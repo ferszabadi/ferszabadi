@@ -1,35 +1,20 @@
-# Olá, eu sou a Fernanda Szabadi!
+# Hello, my name is Fernanda Szabadi!
 
-## Sobre mim
+## About me
 
-🗨 Profissional de Comunicação e Tecnologia;\
-💻 Analista de Projetos de TI na [DoroTech](https://github.com/dorotech);\
-🎓 Análise e Desenvolvimento de Sistemas (Fatec Sorocaba, 2025), Marketing Digital (Belas Artes, 2020) e Jornalismo (ESAMC, 2016).
+🗨 Professional of Technology and Communication;\
+💻 IT Project Manager at [DoroTech](https://github.com/dorotech);\
+🎓 Systems Analysis and Development (Fatec Sorocaba, 2025), Digital Marketing (Belas Artes, 2020) and Journalism (ESAMC, 2016).
 
-## Meus conhecimentos
+## Experience
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- Planning and tracking sprints, schedules, and deliveries;
+- Preparing status reports and performance reports, including the Annual Performance Report (RDA) required by Ministry of Science and Technology of Brazil;
+- Collecting and analyzing satisfaction indicators (NPS);
+- Supporting requirements gathering and change control;
+- Facilitating communication and aligning expectations with clients and development teams.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Cursos e certificados
-
-- Dominando a Linguagem de Programação Java | 11 horas | DIO (2024)
-- Java Essencial e Desenvolvimento Colaborativo com Git | 9 horas | DIO (2024)
-- Scrum Foundation Professional Certification SFPC | CertiProf (2024)
-- Git e Versionamento | Ada Tech (2024)
-- Scrum Fundamentals Certified (SFC) | SCRUMstudy (2023)
-- TOEIC Bridge (Listening and Reading) | Nível B2 | ETS (2023)
-- Minicurso HTML, CSS e JavaScript | Semana de Tecnologia Fatec (2022)
-
-## Vamos nos conectar?
+## Shall we connect?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-szabadi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferszabadi)
