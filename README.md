@@ -2,8 +2,8 @@
 
 ## About me
 
-🗨 Professional at the intersection of Technology, PMO Leadership, and Communication;
-💻 IT Project Manager & PMO Leader at [DoroTech](https://github.com/dorotech);
+🗨 Professional at the intersection of Technology, PMO Leadership, and Communication;<br>
+💻 IT Project Manager & PMO Leader at [DoroTech](https://github.com/dorotech);<br>
 🎓 Systems Analysis and Development (Fatec Sorocaba, 2025), Digital Marketing (Belas Artes, 2020), and Journalism (ESAMC, 2016).
 
 ## Experience
