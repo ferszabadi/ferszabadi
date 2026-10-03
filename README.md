@@ -2,17 +2,18 @@
 
 ## About me
 
-🗨 Professional of Technology and Communication;\
-💻 IT Project Manager at [DoroTech](https://github.com/dorotech);\
-🎓 Systems Analysis and Development (Fatec Sorocaba, 2025), Digital Marketing (Belas Artes, 2020) and Journalism (ESAMC, 2016).
+🗨 Professional at the intersection of Technology, PMO Leadership, and Communication;
+💻 IT Project Manager & PMO Leader at [DoroTech](https://github.com/dorotech);
+🎓 Systems Analysis and Development (Fatec Sorocaba, 2025), Digital Marketing (Belas Artes, 2020), and Journalism (ESAMC, 2016).
 
 ## Experience
 
-- Planning and tracking sprints, schedules, and deliveries;
-- Preparing status reports and performance reports, including the Annual Performance Report (RDA) required by Ministry of Science and Technology of Brazil;
-- Collecting and analyzing satisfaction indicators (NPS);
-- Supporting requirements gathering and change control;
-- Facilitating communication and aligning expectations with clients and development teams.
+- Leading PMO routines, portfolio monitoring, process improvement, and project governance;
+- Managing software and hardware initiatives (web, mobile, access control, energy) from planning through execution, documentation, and accountability;
+- Preparing reports and compliance documentation for R&D&I projects under Brazil’s Information Technology Law;
+- Developing KPIs, dashboards, status reports and executive management reports;
+- Facilitating communication and aligning expectations across clients, development teams, administrative areas and leadership;
+- Supporting requirements gathering, change management and satisfaction metrics (NPS).
 
 ## Shall we connect?
 
